@@ -7,4 +7,4 @@ A seguir, a descrição de alguns  arquivos:
 
 :star: gitignore: contém os arquivos que não devem ser levados em consideração ao realizar o commit;
 
-➡️ para exercutar: npm start
+➡️ para executar: npm start
