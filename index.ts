@@ -1,1 +1,4 @@
-console.log("TEstE1");
+let variavel:string;
+
+console.log('Teste');
+console.log('ta ok')
